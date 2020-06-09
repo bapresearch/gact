@@ -1,8 +1,19 @@
 #!/usr/bin/python
 
+print("""
+          , 
+ _  _. _.-+-
+(_](_](_. | 
+._|         
+     -0xbiel
+""")
+
+
 infile = input('which file do you wanna open? ')
 
 gen = open(infile, 'r')
+
+print("")
 
 c = 0;
 g = 0;
